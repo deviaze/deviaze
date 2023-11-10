@@ -15,10 +15,12 @@ roblox dev with around 6 years Studio experience;                               
   → Luau  
   → modeling (hard surfaces, tools, guns, etc.) (tricount < 10k for roblox optimization)  
       blender  → substance painter → roblox pipeline                                                                             "
+
 experience with discord bots, js;                                                                                                "
   → made and maintain my Discord (discord.js) ↔ MongoDB ↔ Roblox database system 'AURCORE' (xp, stats, perms) for Avanity.
       practically wrote it in 3 days back in 2021 with no javascript experience beforehand.
       (very good learning experience)                                                                                            "
+
 wrote an entire medical records retrieval, drafting, invoicing, etc. automation suite in AHK                                     "
   → the job was ridiculously repetitive (eClinicalWorks) so I had to automate most of it and had fun doing so.
   → helped reduce my processing time to < 5 minute per request per patient. 
