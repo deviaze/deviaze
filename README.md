@@ -14,7 +14,9 @@ roblox dev with around 6 years Studio experience;                               
   I'm basically fullstack, but specialize in modular, expansible systems and recursive algorithmic memery
   → Luau  
   → modeling (hard surfaces, tools, guns, etc.) (tricount < 10k for roblox optimization)  
-      blender  → substance painter → roblox pipeline                                                                             "
+      blender → substance painter → roblox pipeline                                                                             "
+
+adobe suite, photoshop & image editing (since like 2017)
 
 experience with discord bots, js;                                                                                                "
   → made and maintain my Discord (discord.js) ↔ MongoDB ↔ Roblox database system 'AURCORE' (xp, stats, perms) for Avanity.
@@ -23,7 +25,7 @@ experience with discord bots, js;                                               
 
 wrote an entire medical records retrieval, drafting, invoicing, etc. automation suite in AHK                                     "
   → the job was ridiculously repetitive (eClinicalWorks) so I had to automate most of it and had fun doing so.
-  → helped reduce my processing time to < 5 minute per request per patient. 
+  → helped reduce my processing time to < 5 minute per request per patient.                                                      "
   ```
 
 ## Contact Info
