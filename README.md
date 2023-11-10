@@ -1,22 +1,40 @@
-# 👋 Hi, I’m Dev (@deviaze)
+# 👋 Hi, I’m dev chrysalis (@deviaze)
+### roblox dev & CS major at the University of Memphis :)
 
 ## Blurb
-**Imperial Federation of Auraxis**
-- I am the owner and primary developer of [Imperial Federation of Auraxis](https://www.roblox.com/groups/3115240), and my current projects include finishing the current CORE Midnight module for IFA, which will include all new UI, rescripted gun visuals and vfx, a new class and weapons system, and more. IFA's website is www.auraxis.co.
+### **The Avan Unity**
+- Owner and primary developer of [The Avan Unity](https://www.roblox.com/groups/3115240) (Avanity), and my current projects include Core Daybreak and Sareva Falls —— a beautiful officer academy game on the mountaintop waterfalls of Athis
+- Visit [auraxis.co/wiki](www.auraxis.co/wiki) to learn more
+- I develop for fun.
 
-- I am a developer on roblox.com with at least 5 years experience in ROBLOX Studio and 1 year experience in 3D modeling using Blender. My primary focuses are programming (ROBLOX Lua), 3D modeling (hard surface, < 10,000 triangle count), and building. I also have experience with UI, and I use Photoshop 2021/2022 for graphic design and image editing.
+---
+### some experiences:
+```lua
+roblox dev with around 6 years Studio experience;                                                                                "
+  I'm basically fullstack, but specialize in modular, expansible systems and recursive algorithmic memery
+  → Luau  
+  → modeling (hard surfaces, tools, guns, etc.) (tricount < 10k for roblox optimization)  
+      blender  → substance painter → roblox pipeline                                                                             "
+experience with discord bots, js;                                                                                                "
+  → made and maintain my Discord (discord.js) ↔ MongoDB ↔ Roblox database system 'AURCORE' (xp, stats, perms) for Avanity.
+      practically wrote it in 3 days back in 2021 with no javascript experience beforehand.
+      (very good learning experience)                                                                                            "
+wrote an entire medical records retrieval, drafting, invoicing, etc. automation suite in AHK                                     "
+  → the job was ridiculously repetitive (eClinicalWorks) so I had to automate most of it and had fun doing so.
+  → helped reduce my processing time to < 5 minute per request per patient. 
+  ```
 
 ## Contact Info
 ### **Discord**
-- ROBLOX Discord: **deviaze#7318** (checked every evening, contact for commissions, info, etc.)
-- IRL Discord: **dev#3601** (contact if needed urgently)
+- Discord: **deviaze#7318**
 ### Email
-- developer@auraxis.co (for concerns regarding IFA)
+- developer@auraxis.co (for Avanity-related concerns)
 ### Roblox
 - [Profile](https://www.roblox.com/users/43338508/profile)
 - [DevForum](https://devforum.roblox.com/u/deviaze)
 
-
+## *Thanks for reading :)*
+https://deviaze.com
 <!---
 deviaze/deviaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
