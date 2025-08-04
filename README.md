@@ -2,7 +2,7 @@
 
 ## Blurb
 
-I love writing code ~~to create~~ & solve interesting problems.
+I love writing code to ~~create &~~ solve interesting problems.
 
 I'm a big fan of Rust (catching problems at compile time with great tooling and safety), programming language research & development, gamedev, and generally making software easier to use and more obvious to end users.
 
